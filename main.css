@@ -14,3 +14,25 @@
   height: 500px;
   background-image: url(IMG_2624.jpg);
 }
+
+.jumbotron .container {
+    position: relative;
+}
+
+.jumbotron h1 {
+  font-family: 'Josefin', sans-serif;
+}
+
+.learn-more {
+    background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Josefin', sans-serif;
+}
+
+.learn-more a {
+    color: #00b0ff;
+}
