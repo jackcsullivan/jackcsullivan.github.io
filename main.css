@@ -1,11 +1,14 @@
 .nav a {
-  color: #5a5a5a;
-  font-size: 11px;
+  color: #0099FF;
+  font-size: 14px;
   font-weight: bold;
-  padding: 14px 10px;
+  padding: 14px;
   text-transform: uppercase;
 }
 
+.nav-pills a {
+    color: #ffffff
+}
 .nav li {
   display: inline;
 }
