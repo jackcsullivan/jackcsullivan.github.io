@@ -12,5 +12,5 @@
 
 .jumbotron {
   height: 500px;
-  background-image: image('IMG_2624.jpg');
+  background-image: url(IMG_2624.jpg);
 }
