@@ -37,6 +37,14 @@
   font-family: 'Josefin', sans-serif;
 }
 
+.About-Me .col-md-offset-3 {
+  padding-bottom: 25px;
+}
+
+.About-Me .col-md-offset-4 {
+  padding-bottom: 25px;
+}
+
 .Education h2 {
   font-family: 'Josefin', sans-serif;
 }
@@ -46,6 +54,7 @@
 }
 
 .Berkeley .over-text {
+  padding-left: 10px;
   width: 100%;
   position: absolute;
   top: 20px;
@@ -54,6 +63,7 @@
 }
 
 .LAHS .over-text {
+  padding-left: 10px;
   width: 100%;
   position: absolute;
   top: 450px;
