@@ -41,6 +41,13 @@
   font-family: 'Josefin', sans-serif;
 }
 
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+
 .learn-more {
   background-color: #f7f7f7;
 }
