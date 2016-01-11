@@ -48,17 +48,19 @@
 .Berkeley .over-text {
   width: 100%;
   position: absolute;
-  top: 50px;
+  top: 25px;
   text-align: left;
   color: white;
+  font-family: 'Josefin', sans-serif;
 }
 
 .LAHS .over-text {
   width: 100%;
   position: absolute;
-  top: 500px;
+  top: 425px;
   text-align: left;
   color: white;
+  font-family: 'Josefin', sans-serif;
 }
 
 .learn-more {
