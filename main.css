@@ -37,6 +37,10 @@
   font-family: 'Josefin', sans-serif;
 }
 
+.resume a {
+  color: white;
+}
+
 .learn-more {
   background-color: #f7f7f7;
 }
