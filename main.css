@@ -48,15 +48,17 @@
 .Berkeley .over-text {
   width: 100%;
   position: absolute;
-  top: 100px;
+  top: 50px;
   text-align: left;
+  color: white;
 }
 
 .LAHS .over-text {
   width: 100%;
   position: absolute;
-  top: 600px;
+  top: 500px;
   text-align: left;
+  color: white;
 }
 
 .learn-more {
