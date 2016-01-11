@@ -21,6 +21,10 @@
 
 .jumbotron {
   height: 500px;
+  background-image: url(IMG_2613.jpg);
+  max-width: 100%;
+  min-height: 679px;
+  background-size: contain;
 }
 
 .jumbotron .container {
