@@ -12,8 +12,8 @@
 
 .nav>li>a:hover,
 .nav>li>a:focus {
-    text-decoration: none;
-    background-color: #0099FF;
+  text-decoration: none;
+  background-color: #0099FF;
 }
 .nav li {
   display: inline;
@@ -21,11 +21,11 @@
 
 .jumbotron {
   height: 500px;
-  background-image: url(IMG_2624.jpg);
+  background-image: url(IMG_2613.jpg);
 }
 
 .jumbotron .container {
-    position: relative;
+  position: relative;
 }
 
 .jumbotron h1 {
@@ -33,15 +33,15 @@
 }
 
 .learn-more {
-    background-color: #f7f7f7;
+  background-color: #f7f7f7;
 }
 
 .learn-more h3 {
-    font-size: 18px;
-    font-weight: bold;
-    font-family: 'Josefin', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Josefin', sans-serif;
 }
 
 .learn-more a {
-    color: #00b0ff;
+  color: #00b0ff;
 }
