@@ -49,6 +49,10 @@
   padding-bottom: 25px;
 }
 
+.About-Me .contact-components {
+  border: 2px solid #00FA9A;
+}
+
 .Education h2 {
   font-family: 'Josefin', sans-serif;
 }
