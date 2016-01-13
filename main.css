@@ -49,10 +49,6 @@
   padding-bottom: 25px;
 }
 
-.About-Me .contact-components {
-  border: 2px solid #00FA9A;
-}
-
 .Education h2 {
   font-family: 'Josefin', sans-serif;
 }
@@ -68,6 +64,10 @@
   top: 20px;
   color: white;
   font-family: 'Josefin', sans-serif;
+}
+
+.Berkeley .caption {
+  display: inline;
 }
 
 .LAHS .over-text {
@@ -91,4 +91,8 @@
 
 .learn-more a {
   color: #00b0ff;
+}
+
+.Projects h2 {
+  font-family: 'Josefin', sans-serif;
 }
