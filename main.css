@@ -112,6 +112,10 @@
   color: #00b0ff;
 }
 
+.Work-Experience .job-desc {
+  padding-top: 70px;
+}
+
 .Projects h2 {
   font-family: 'Josefin', sans-serif;
 }
