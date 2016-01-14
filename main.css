@@ -1,5 +1,5 @@
 .nav {
-    background-color: #FFCC99;
+  background-color: #FFCC99;
 }
 
 .nav a {
@@ -21,7 +21,7 @@
 
 .jumbotron {
   position: relative;
-  background-image: url(http://theartmad.com/wp-content/uploads/2015/06/Amazing-Photos-16.jpg);
+  background-image: url(IMG_2613.jpg);
   width: 100%;
   height: 100%;
   background-size: cover;
@@ -67,6 +67,26 @@
 
 .Berkeley .caption {
   display: inline;
+}
+
+.Berkeley .caption .pull-left {
+  padding-left: 20px;
+}
+
+.Berkeley .caption .pull-right {
+  padding-right: 20px;
+}
+
+.LAHS .caption {
+  display: inline;
+}
+
+.LAHS .caption .pull-left {
+  padding-left: 50px;
+}
+
+.LAHS .caption .pull-right {
+  padding-right: 50px;
 }
 
 .LAHS .over-text {
