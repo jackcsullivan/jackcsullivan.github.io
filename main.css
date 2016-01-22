@@ -1,3 +1,9 @@
+body {
+  background: #00C9FF; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #00C9FF , #92FE9D); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #00C9FF , #92FE9D)
+}
+
 .nav {
   background-color: #FFCC99;
 }
@@ -38,6 +44,14 @@
 
 .About-Me h3 {
   padding-bottom: 25px;
+}
+
+.About-Me .col-md-6 .text-center {
+  padding-bottom: 25px;
+}
+
+.About-Me .col-md-6 {
+  border: 4px solid #5bc0de;
 }
 
 .About-Me .col-md-offset-3 {
