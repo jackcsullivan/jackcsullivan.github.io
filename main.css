@@ -27,7 +27,6 @@
   background-size: cover;
 }
 
-
 .jumbotron h1 {
   font-family: 'Josefin', sans-serif;
 }
@@ -49,6 +48,10 @@
   border: 3px solid #5bc0de;
 }
 
+.About-Me .col-md-3 .text-center {
+  padding-left: 50px;
+}
+
 .About-Me .col-md-offset-3 {
   padding-bottom: 25px;
 }
@@ -57,8 +60,8 @@
   padding-bottom: 25px;
 }
 
-.Education .h1 {
-  padding-top: 50px;
+.Education {
+  padding-top: 125px;
 }
 
 .Education h2 {
@@ -125,12 +128,20 @@
   color: #00b0ff;
 }
 
+.Work-Experience {
+  padding-top: 125px;
+}
+
 .Work-Experience .text-center .thumbnail {
     width: 900px;
 }
 
 .Work-Experience .job-desc {
-  padding-top: 70px;
+  padding-top: 50px;
+}
+
+.Work-Experience .tesla .col-md-5 {
+  border: 3px solid #DC143C;
 }
 
 .Work-Experience .tennis-teacher .col-md-5 .thumbnail {
@@ -138,6 +149,19 @@
   width: 200px;
 }
 
-.Projects h2 {
+.Projects {
+  padding-top: 125px;
+}
+
+.Projects h1 {
+  font-family: 'Josefin', sans-serif;
+}
+
+.Passions {
+  padding-top: 125px;
+  padding-bottom: 125px;
+}
+
+.Passions h1 {
   font-family: 'Josefin', sans-serif;
 }
