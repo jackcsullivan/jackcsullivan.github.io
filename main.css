@@ -3,8 +3,12 @@ body {
   background: #fffff;
 }
 
-.nav a {
+body .a .section-anchor {
+  position: absolute;
+  top: -@navbar-size;
+}
 
+.nav a {
   font-size: 14px;
   font-weight: bold; 
   padding: 14px;
@@ -36,10 +40,19 @@ body {
   color: #FFFFFF;
 }
 
+.section-anchor {
+  position: absolute;
+  top: -@navbar-size;
+}
+
 .About-Me {
   padding-top: 50px;
   padding-left: 50px;
   padding-right: 50px;
+}
+
+.About-Me h1 {
+  font-family: 'Josefin', sans-serif;
 }
 
 .About-Me h2 {
@@ -167,10 +180,10 @@ body {
   font-family: 'Josefin', sans-serif;
 }
 
-.Projects .col-md-7 {
-    height: 500px;
-    width: 500px;
-    padding-left: 100px;
+.Projects .TLDR .tldr-desc {
+    font-size: 18px;
+    padding-top: 14px;
+    padding-bottom: 13px;
 }
 
 .Passions {
