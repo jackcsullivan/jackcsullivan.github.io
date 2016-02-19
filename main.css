@@ -1,5 +1,6 @@
 body {
-  padding-top: 70px;
+  padding-top: 50px;
+  background: #fffff;
 }
 
 .nav a {
@@ -35,6 +36,12 @@ body {
   color: #FFFFFF;
 }
 
+.About-Me {
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
 .About-Me h2 {
   font-family: 'Josefin', sans-serif;
   padding-bottom: 50px;
@@ -49,7 +56,6 @@ body {
 }
 
 .About-Me .col-md-6 {
-  border: 3px solid #5bc0de;
   font-family: 'Josefin', sans-serif;
 }
 
@@ -67,6 +73,8 @@ body {
 
 .Education {
   padding-top: 125px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .Education .col-md-5 .note {
@@ -129,35 +137,20 @@ body {
   font-family: 'Josefin', sans-serif;
 }
 
-.learn-more {
-  background-color: #f7f7f7;
-}
-
-.learn-more h3 {
-  font-size: 18px;
-  font-weight: bold;
-  font-family: 'Josefin', sans-serif;
-}
-
-.learn-more a {
-  color: #00b0ff;
-}
-
 .Work-Experience {
   padding-top: 125px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .Work-Experience .text-center .thumbnail {
-    width: 900px;
+  width: 900px;
 }
 
 .Work-Experience .job-desc {
   padding-top: 50px;
 }
 
-.Work-Experience .tesla .col-md-5 {
-  border: 3px solid #DC143C;
-}
 
 .Work-Experience .tennis-teacher .col-md-5 .thumbnail {
   height: 200px;
@@ -166,15 +159,25 @@ body {
 
 .Projects {
   padding-top: 125px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .Projects h1 {
   font-family: 'Josefin', sans-serif;
 }
 
+.Projects .col-md-7 {
+    height: 500px;
+    width: 500px;
+    padding-left: 100px;
+}
+
 .Passions {
   padding-top: 125px;
   padding-bottom: 125px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .Passions h1 {
