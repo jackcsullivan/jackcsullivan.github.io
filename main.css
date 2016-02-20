@@ -3,11 +3,6 @@ body {
   background: #fffff;
 }
 
-body .a .section-anchor {
-  position: absolute;
-  top: -@navbar-size;
-}
-
 .nav a {
   font-size: 14px;
   font-weight: bold; 
@@ -51,10 +46,6 @@ body .a .section-anchor {
   padding-right: 50px;
 }
 
-.About-Me h1 {
-  font-family: 'Josefin', sans-serif;
-}
-
 .About-Me h2 {
   font-family: 'Josefin', sans-serif;
   padding-bottom: 50px;
@@ -64,11 +55,16 @@ body .a .section-anchor {
   padding-bottom: 25px;
 }
 
+.About-Me .col-md-3 {
+  padding-top: 125px;
+}
+
 .About-Me .col-md-6 .text-center {
   padding-bottom: 25px;
 }
 
-.About-Me .col-md-6 {
+.About-Me .col-md-6 .me {
+  font-size: 18px;
   font-family: 'Josefin', sans-serif;
 }
 
@@ -156,16 +152,24 @@ body .a .section-anchor {
   padding-right: 50px;
 }
 
-.Work-Experience .text-center .thumbnail {
-  width: 900px;
-}
-
 .Work-Experience .job-desc {
   padding-top: 50px;
 }
 
+.Work-Experience .tesla .col-md-5 {
+  padding-top: 150px;
+}
 
-.Work-Experience .tennis-teacher .col-md-5 .thumbnail {
+.Work-Experience .tesla .col-md-7 .job-desc {
+  font-size: 17px;
+}
+
+.Work-Experience .tennis-teacher .col-md-5 .job-desc {
+  font-size: 20px;
+  padding-bottom: 40px;
+}
+
+.Work-Experience .tennis-teacher .col-md-5 .rounded {
   height: 200px;
   width: 200px;
 }
@@ -183,7 +187,6 @@ body .a .section-anchor {
 .Projects .TLDR .tldr-desc {
     font-size: 18px;
     padding-top: 14px;
-    padding-bottom: 13px;
 }
 
 .Passions {
